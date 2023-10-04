@@ -1,0 +1,15 @@
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/smylezstudioz/sgrepos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
